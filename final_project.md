@@ -15,3 +15,4 @@
 
 4# For the data I plan on doing train tests with linear data to predict it as the final outcome I am looking at is continous data. Along with this, I will most likely use heatmaps to show the predicted data and the correlation between them. I will also show the data representation between box plots and bar graphs, to depict the differnece between the data.
 
+https://github.com/azakszewski/Anthony_csci1070/blob/main/IMDB-Movie-Data.csv
