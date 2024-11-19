@@ -8,6 +8,8 @@
 
     I plan on using a data set of moving rating from IMDB which brings in factors like runtime, genre and others and gives a movie rating for a movie. I will see how potentially a genre or a runtime may affect a rating.
 
+    https://github.com/azakszewski/Anthony_csci1070/blob/main/IMDB-Movie-Data.csv
+
 3# What is your starting hypothesis about the data? Create a null hypothesis and an alternative hypothesis as follows
 
     Null: for the imbd dataset, I am predicting that based off all the data of the movie like genre and rutnntime etc, there is no corrleation between that and the rating of the movie, as it is subjective to the film.
